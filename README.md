@@ -1,4 +1,4 @@
-## Proffy
+<p align="center"><b> Proffy </b><p>
 
 <p align="center">
   <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/rafaelfachinelli/Proffy?style=flat-square">

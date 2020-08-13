@@ -34,7 +34,8 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 - [x] Construir página inicial :iphone:
 - [x] Construir página de busca :computer:
 - [x] Construir página de busca :iphone:
-- [ ] Construir servidor :computer:
+- [x] Configurações iniciais do servidor :computer:
+- [ ] Construir rotas do servidor :computer:
 
 ---
 ### :triangular_ruler: **Status do Projeto**

@@ -82,6 +82,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
 - [ReactJS](https://pt-br.reactjs.org)
 - [Node.js](https://nodejs.org/pt-br/)
+- [SQLite](https://www.sqlite.org/index.html)
 
 ---
 ### :boy: **Autor**

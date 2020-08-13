@@ -1,69 +1,15 @@
 import express from 'express';
-import db from './database/connection';
-import convertHourToMinutes from './utils/convertHourToMinutes';
-
-interface ScheduleItem {
-  week_day: number;
-  from: string;
-  to: string;
-}
+import ClassesController from './controllers/ClassesController';
+import ConnectionsController from './controllers/ConnectionsController';
 
 const routes = express.Router();
+const classesControllers = new ClassesController();
+const connectionsController = new ConnectionsController();
 
-routes.post('/classes', async (request, response) => {
-  const {
-    name,
-    avatar,
-    whatsapp,
-    bio,
-    subject,
-    cost,
-    schedule
-  } = request.body;
+routes.get('/classes', classesControllers.index);
+routes.post('/classes', classesControllers.create);
 
-  const trx = await db.transaction();
-
-  try {
-    const insertedUserIds = await trx('users').insert({
-      name,
-      avatar,
-      whatsapp,
-      bio
-    });
-  
-    const user_id = insertedUserIds[0];
-  
-    const insertedClassesIds = await trx('classes').insert({
-      subject,
-      cost,
-      user_id,
-    });
-  
-    const class_id = insertedClassesIds[0];
-  
-    const classSchedule = schedule.map((scheduleItem:ScheduleItem) => {
-      return {
-        class_id,
-        week_day: scheduleItem.week_day,
-        from: convertHourToMinutes(scheduleItem.from),
-        to: convertHourToMinutes(scheduleItem.to),
-      };
-    })
-  
-    await trx('class_schedule').insert(classSchedule);
-  
-    await trx.commit();
-  
-    return response.status(201).send();
-
-  } catch (error) {
-    await trx.rollback();
-
-    return response.status(400).json({
-      error: 'Unexpected error while creating new class'
-    })
-  }
-  
-});
+routes.get('/connections', connectionsController.index)
+routes.post('/connections', connectionsController.create)
 
 export default routes;

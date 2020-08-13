@@ -1,6 +1,6 @@
-<p align="center"><h1> Proffy </h1><p>
+<h1> Proffy </h1>
 
-<p align="center">
+<p align="center"> 
   <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/rafaelfachinelli/Proffy?style=flat-square">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/Proffy?style=flat-square">
   <a href="https://github.com/rafaelfachinelli">

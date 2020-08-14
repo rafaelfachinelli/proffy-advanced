@@ -30,18 +30,24 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 ---
 ### :memo: **Roteiro**
 
-- [x] Construir página inicial :computer:
-- [x] Construir página inicial :iphone:
-- [x] Construir página de busca :computer:
-- [x] Construir página de busca :iphone:
+- [x] Estruturar página inicial :computer:
+- [x] Estilizar página inicial :computer::iphone:
+- [x] Estruturar página de busca :computer:
+- [x] Estruturar página de busca :computer::iphone:
 - [x] Configurações iniciais do servidor :computer:
-- [ ] Construir rotas do servidor :computer:
+- [x] Estruturar rotas do servidor :computer:
+- [x] Estruturar página de cadastro :computer:
+- [x] Estilizar página de cadastro :computer::iphone:
+- [x] Preparar cadastro de horários :computer:
+- [ ] Carregar total de conexões na página inicial :computer:
+- [ ] Funcionalidade de cadastrar novas aulas :computer:
+- [ ] Listagem de professores na página de busca :computer:
 
 ---
 ### :triangular_ruler: **Status do Projeto**
 
 <h4 align="center"> 
-	🚧  Proffy 💼 Em construção...  🚧
+	🚧 💼 Proffy em construção... 🚧
 </h4>
 
 ---

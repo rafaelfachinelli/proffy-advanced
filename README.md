@@ -86,10 +86,12 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
+- [Typescript](https://www.typescriptlang.org)
 - [ReactJS](https://pt-br.reactjs.org)
 - [Node](https://nodejs.org/pt-br/)
 - [SQLite](https://www.sqlite.org/index.html)
 - [KnexJS](http://knexjs.org)
+
 
 ---
 ### :boy: **Autor**

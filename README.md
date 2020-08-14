@@ -43,9 +43,9 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 - [x] Estruturar página de cadastro :computer:
 - [x] Estilizar página de cadastro :computer::iphone:
 - [x] Preparar cadastro de horários :computer:
-- [ ] Carregar total de conexões na página inicial :computer:
-- [ ] Funcionalidade de cadastrar novas aulas :computer:
-- [ ] Listagem de professores na página de busca :computer:
+- [x] Carregar total de conexões na página inicial :computer:
+- [x] Funcionalidade de cadastrar novas aulas :computer:
+- [x] Listagem de professores na página de busca :computer:
 
 ---
 ## :triangular_ruler: **Status do Projeto**

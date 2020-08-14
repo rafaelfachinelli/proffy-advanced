@@ -33,7 +33,7 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 - [x] Estruturar página inicial :computer:
 - [x] Estilizar página inicial :computer::iphone:
 - [x] Estruturar página de busca :computer:
-- [x] Estruturar página de busca :computer::iphone:
+- [x] Estilizar página de busca :computer::iphone:
 - [x] Configurações iniciais do servidor :computer:
 - [x] Estruturar rotas do servidor :computer:
 - [x] Estruturar página de cadastro :computer:

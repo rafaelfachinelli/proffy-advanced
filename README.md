@@ -91,6 +91,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 - [Node](https://nodejs.org/pt-br/)
 - [SQLite](https://www.sqlite.org/index.html)
 - [KnexJS](http://knexjs.org)
+- [Axios](https://github.com/axios/axios)
 
 
 ---

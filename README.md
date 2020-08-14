@@ -91,10 +91,10 @@ $ yarn start
 
 > O servidor de desenvolvimento iniciará na porta:3000 - Acesse <http://localhost:3000>
 
-### :iphone: _**Mobile**_
+### :iphone: **Mobile**
 
 <h4 align="center"> 
-	🚧  Demonstração em construção...  🚧
+	🚧  Em construção...  🚧
 </h4>
 
 ### :globe_with_meridians: **Servidor**

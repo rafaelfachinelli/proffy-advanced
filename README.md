@@ -34,6 +34,14 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 ---
 ## :memo: **Roteiro**
 
+<div align="center">
+
+|     Concluído    |    Cadastro   |
+|        ---       |      ---      |
+|:white_check_mark:|    teste      |
+
+</div>
+
 - [x] Estruturar página inicial
 - [x] Estilizar página inicial
 - [x] Estruturar página de busca

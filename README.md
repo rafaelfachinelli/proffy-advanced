@@ -36,28 +36,28 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 <div align="center">
 
-|      Estado      |     Tarefa    |
-|      :---:       |      :---     |
-|:heavy_check_mark:|Estruturar página inicial|
-|:heavy_check_mark:|Estilizar página inicial|
-|:heavy_check_mark:|Estruturar página de busca|
-|:heavy_check_mark:|Estilizar página de busca|
-|:heavy_check_mark:|Configurações iniciais do servidor|
-|:heavy_check_mark:|Estruturar rotas do servidor|
-|:heavy_check_mark:|Estruturar página de cadastro|
-|:heavy_check_mark:|Estilizar página de cadastro|
-|:heavy_check_mark:|Preparar cadastro de horários|
-|:heavy_check_mark:|Carregar total de conexões na página inicial|
-|:heavy_check_mark:|Funcionalidade de cadastrar novas aulas|
-|:heavy_check_mark:|Listagem de professores na página de busca|
-|:x:               |Criar projeto do aplicativo mobile com Expo|
-|:x:               |Estruturar página inicial do aplicativo mobile|
-|:x:               |Estilizar página inicial do aplicativo mobile|
-|:x:               |Navegação página inicial do aplicativo mobile|
-|:x:               |Estruturar página de cadastro do aplicavo mobile|
-|:x:               |Estruturar páginas internas do aplicavo mobile|
-|:x:               |Navegação em abas do aplicativo mobile|
-|:x:               |Estruturar página de busca do aplicativo mobile|
+|      Estado      |     Plataforma   |     Tarefa    |
+|      :---:       |       :---:      |      :---     |
+|:heavy_check_mark:|:computer:        |Estruturar página inicial|
+|:heavy_check_mark:|:computer::iphone:|Estilizar página inicial|
+|:heavy_check_mark:|:computer:        |Estruturar página de busca|
+|:heavy_check_mark:|:computer::iphone:|Estilizar página de busca|
+|:heavy_check_mark:|:computer:        |Configurações iniciais do servidor|
+|:heavy_check_mark:|:computer:        |Estruturar rotas do servidor|
+|:heavy_check_mark:|:computer:        |Estruturar página de cadastro|
+|:heavy_check_mark:|:computer::iphone:|Estilizar página de cadastro|
+|:heavy_check_mark:|:computer:        |Preparar cadastro de horários|
+|:heavy_check_mark:|:computer:        |Carregar total de conexões na página inicial|
+|:heavy_check_mark:|:computer:        |Funcionalidade de cadastrar novas aulas|
+|:heavy_check_mark:|:computer:        |Listagem de professores na página de busca|
+|:x:               |:computer:        |Criar projeto do aplicativo mobile com Expo|
+|:x:               |:iphone:          |Estruturar página inicial do aplicativo mobile|
+|:x:               |:iphone:          |Estilizar página inicial do aplicativo mobile|
+|:x:               |:iphone:          |Navegação página inicial do aplicativo mobile|
+|:x:               |:iphone:          |Estruturar página de cadastro do aplicavo mobile|
+|:x:               |:iphone:          |Estruturar páginas internas do aplicavo mobile|
+|:x:               |:iphone:          |Desenvolver navegação em abas do aplicativo mobile|
+|:x:               |:iphone:          |Estruturar página de busca do aplicativo mobile|
 
 </div>
 

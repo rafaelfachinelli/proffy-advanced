@@ -38,7 +38,7 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 |     Concluído    |    Cadastro   |
 |        ---       |      ---      |
-|:white_check_mark:|    teste      |
+|:heavy_check_mark:|    teste      |
 
 </div>
 

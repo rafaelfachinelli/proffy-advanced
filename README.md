@@ -154,7 +154,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 |WEB Responsivo								|Servidor					|Aplicativo|
 |:---:									|:---:						|:---:|
-|[HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)	|[Node.JS](https://nodejs.org/pt-br/)		||
+|[HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)	|[Node.JS](https://nodejs.org/pt-br/)		|[Expo](https://expo.io)|
 |[CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)		|[Express](https://expressjs.com/pt-br/)	||
 |[Typescript](https://www.typescriptlang.org)				|[SQLite](https://www.sqlite.org/index.html)	||
 |[ReactJS](https://pt-br.reactjs.org)					|[KnexJS](http://knexjs.org)			||

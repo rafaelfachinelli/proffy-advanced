@@ -105,12 +105,6 @@ $ yarn start
 
 > O servidor de desenvolvimento iniciará na porta:3000 - Acesse <http://localhost:3000>
 
-### :iphone: **Aplicativo**
-
-<h4 align="center"> 
-	🚧  Em construção...  🚧
-</h4>
-
 ### :globe_with_meridians: **Servidor**
 
 Entre na pasta [`server/`](server/) e execute os seguintes comandos:
@@ -144,6 +138,12 @@ $ yarn start
 > O servidor iniciará na porta:3333 - Acesse <http://localhost:3333>
 
 > O Banco de Dados fica salvo em [`src/database/database.sqlite`](src/database/database.sqlite)
+
+### :iphone: **Aplicativo**
+
+<h4 align="center"> 
+	🚧  Em construção...  🚧
+</h4>
 
 ---
 ## :hammer: **Tecnologias**

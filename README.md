@@ -26,10 +26,10 @@
 
 ## :computer: Sobre
 
-O projeto é desenvolvido para estudantes e professores. Os professores pode realizar o cadastro na plataforma inserindo algumas informações pessoais como nome, biografia, whatsapp para contato dos alunos e dias da semana com horário disponíveis para oferecer aula. Os alunos buscam professores particulares através do horário, dias da semana e matéria de sua escolha.
+A plataforma é para estudantes e professores. Os professores realizam o cadastro inserindo as seguintes informações: Nome, biografia, whatsapp, disciplina e dias da semana com horários disponíveis para aula. Os alunos buscam professores particulares através do filtro de dia da semana, hora e matéria.
 
-Projeto desenvolvido durante a **NLW - Next Level Week#2** na **Trilha Omnistack** oferecida pela [Rocketseat](https://www.rocketseat.com.br).
-O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
+Projeto desenvolvido durante a **Next Level Week#2 (NLW)** na avançada **Trilha Omnistack** oferecida pela [Rocketseat](https://www.rocketseat.com.br).
+O NLW é uma experiência online com muito conteúdo prático e desafios com duração de uma semana para conclusão.
 
 ---
 ## :memo: **Roteiro**
@@ -105,12 +105,6 @@ $ yarn start
 
 > O servidor de desenvolvimento iniciará na porta:3000 - Acesse <http://localhost:3000>
 
-### :iphone: **Aplicativo**
-
-<h4 align="center"> 
-	🚧  Em construção...  🚧
-</h4>
-
 ### :globe_with_meridians: **Servidor**
 
 Entre na pasta [`server/`](server/) e execute os seguintes comandos:
@@ -121,7 +115,7 @@ _com **npm**_
 # Instalar dependências
 $ npm install
 
-# Criar database
+# Criar banco de dados
 $ npm knex:migrate
 
 # Iniciar servidor
@@ -145,6 +139,12 @@ $ yarn start
 
 > O Banco de Dados fica salvo em [`src/database/database.sqlite`](src/database/database.sqlite)
 
+### :iphone: **Aplicativo**
+
+<h4 align="center"> 
+	🚧  Em construção...  🚧
+</h4>
+
 ---
 ## :hammer: **Tecnologias**
 
@@ -154,10 +154,11 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 |WEB Responsivo								|Servidor					|Aplicativo|
 |:---:									|:---:						|:---:|
-|[HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)	|[Node.JS](https://nodejs.org/pt-br/)		||
-|[CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)		|[SQLite](https://www.sqlite.org/index.html)	||
-|[Typescript](https://www.typescriptlang.org)				|[KnexJS](http://knexjs.org)			||
-|[ReactJS](https://pt-br.reactjs.org)					|[Axios](https://github.com/axios/axios)	||
+|[HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)	|[Node.JS](https://nodejs.org/pt-br/)		|[Expo](https://expo.io)|
+|[CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)		|[Express](https://expressjs.com/pt-br/)	||
+|[Typescript](https://www.typescriptlang.org)				|[SQLite](https://www.sqlite.org/index.html)	||
+|[ReactJS](https://pt-br.reactjs.org)					|[KnexJS](http://knexjs.org)			||
+|									|[Axios](https://github.com/axios/axios)	||
 
 </div>
 
@@ -181,4 +182,4 @@ Feito com ❤️ por Rafael Fachinelli 👋🏽 Entre em contato!
 ## :page_facing_up: **Licença**
 
 Copyright © 2020 [Rafael Fachinelli](https://github.com/rafaelfachinelli).<br />
-This project is [MIT](./LICENSE) licensed.
+Este projeto é licenciado pelo [MIT](./LICENSE).

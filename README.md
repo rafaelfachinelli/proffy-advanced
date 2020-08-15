@@ -51,13 +51,13 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 |:heavy_check_mark:|:computer:        |Funcionalidade de cadastrar novas aulas|
 |:heavy_check_mark:|:computer:        |Listagem de professores na página de busca|
 |:x:               |:computer:        |Criar projeto do aplicativo mobile com Expo|
-|:x:               |:iphone:          |Estruturar página inicial do aplicativo mobile|
-|:x:               |:iphone:          |Estilizar página inicial do aplicativo mobile|
-|:x:               |:iphone:          |Navegação página inicial do aplicativo mobile|
-|:x:               |:iphone:          |Estruturar página de cadastro do aplicavo mobile|
-|:x:               |:iphone:          |Estruturar páginas internas do aplicavo mobile|
-|:x:               |:iphone:          |Desenvolver navegação em abas do aplicativo mobile|
-|:x:               |:iphone:          |Estruturar página de busca do aplicativo mobile|
+|:x:               |:iphone:          |Estruturar página inicial do aplicativo|
+|:x:               |:iphone:          |Estilizar página inicial do aplicativo|
+|:x:               |:iphone:          |Navegação página inicial do aplicativo|
+|:x:               |:iphone:          |Estruturar página de cadastro do aplicavo|
+|:x:               |:iphone:          |Estruturar páginas internas do aplicavo|
+|:x:               |:iphone:          |Desenvolver navegação em abas do aplicativo|
+|:x:               |:iphone:          |Estruturar página de busca do aplicativo|
 
 </div>
 

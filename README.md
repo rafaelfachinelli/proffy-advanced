@@ -115,7 +115,7 @@ _com **npm**_
 # Instalar dependências
 $ npm install
 
-# Criar database
+# Criar banco de dados
 $ npm knex:migrate
 
 # Iniciar servidor

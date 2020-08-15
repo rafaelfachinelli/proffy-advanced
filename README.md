@@ -51,8 +51,8 @@ O NLW é uma experiência online com muito conteúdo prático e desafios com dur
 |:heavy_check_mark:|:computer:        |Funcionalidade de cadastrar novas aulas|
 |:heavy_check_mark:|:computer:        |Listagem de professores na página de busca|
 |:heavy_check_mark:|:computer:        |Criar projeto do aplicativo mobile com Expo|
-|:x:               |:iphone:          |Estruturar página inicial do aplicativo|
-|:x:               |:iphone:          |Estilizar página inicial do aplicativo|
+|:heavy_check_mark:|:iphone:          |Estruturar página inicial do aplicativo|
+|:heavy_check_mark:|:iphone:          |Estilizar página inicial do aplicativo|
 |:x:               |:iphone:          |Navegação página inicial do aplicativo|
 |:x:               |:iphone:          |Estruturar página de cadastro do aplicavo|
 |:x:               |:iphone:          |Estruturar páginas internas do aplicavo|

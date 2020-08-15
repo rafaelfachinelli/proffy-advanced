@@ -29,7 +29,7 @@
 A plataforma é para estudantes e professores. Os professores realizam o cadastro inserindo as seguintes informações: Nome, biografia, whatsapp, disciplina e dias da semana com horários disponíveis para aula. Os alunos buscam professores particulares através do filtro de dia da semana, hora e matéria.
 
 Projeto desenvolvido durante a **NLW - Next Level Week#2** na **Trilha Omnistack** oferecida pela [Rocketseat](https://www.rocketseat.com.br).
-O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
+O NLW é uma experiência online com muito conteúdo prático e desafios onde o conteúdo fica disponível durante uma semana.
 
 ---
 ## :memo: **Roteiro**

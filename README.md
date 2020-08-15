@@ -78,7 +78,7 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 ---
 ## :dvd: **Executar o Projeto**
 
-### :desktop_computer: **WEB**
+### :desktop_computer: **WEB Responsivo**
 
 Entre na pasta [`web/`](web/) e execute os seguintes comandos:
 
@@ -105,7 +105,7 @@ $ yarn start
 
 > O servidor de desenvolvimento iniciará na porta:3000 - Acesse <http://localhost:3000>
 
-### :iphone: **Mobile**
+### :iphone: **Aplicativo**
 
 <h4 align="center"> 
 	🚧  Em construção...  🚧

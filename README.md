@@ -34,18 +34,26 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 ---
 ## :memo: **Roteiro**
 
-- [x] Estruturar página inicial :computer:
-- [x] Estilizar página inicial :computer::iphone:
-- [x] Estruturar página de busca :computer:
-- [x] Estilizar página de busca :computer::iphone:
-- [x] Configurações iniciais do servidor :computer:
-- [x] Estruturar rotas do servidor :computer:
-- [x] Estruturar página de cadastro :computer:
-- [x] Estilizar página de cadastro :computer::iphone:
-- [x] Preparar cadastro de horários :computer:
-- [x] Carregar total de conexões na página inicial :computer:
-- [x] Funcionalidade de cadastrar novas aulas :computer:
-- [x] Listagem de professores na página de busca :computer:
+- [x] Estruturar página inicial
+- [x] Estilizar página inicial
+- [x] Estruturar página de busca
+- [x] Estilizar página de busca
+- [x] Configurações iniciais do servidor
+- [x] Estruturar rotas do servidor
+- [x] Estruturar página de cadastro
+- [x] Estilizar página de cadastro
+- [x] Preparar cadastro de horários
+- [x] Carregar total de conexões na página inicial
+- [x] Funcionalidade de cadastrar novas aulas
+- [x] Listagem de professores na página de busca
+- [ ] Criar projeto do aplicativo mobile com Expo
+- [ ] Estruturar página inicial do aplicativo mobile
+- [ ] Estilizar página inicial do aplicativo mobile
+- [ ] Navegação página inicial do aplicativo mobile
+- [ ] Estruturar página de cadastro do aplicavo mobile
+- [ ] Estruturar páginas internas do aplicavo mobile
+- [ ] Navegação em abas do aplicativo mobile
+- [ ] Estruturar página de busca do aplicativo mobile
 
 ---
 ## :triangular_ruler: **Status do Projeto**

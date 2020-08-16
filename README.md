@@ -55,6 +55,7 @@ O NLW é uma experiência online com muito conteúdo prático e desafios com dur
 |:heavy_check_mark:|:iphone:          |Estruturar página inicial do aplicativo|
 |:heavy_check_mark:|:iphone:          |Estilizar página inicial do aplicativo|
 |:heavy_check_mark:|:iphone:          |Navegação página inicial do aplicativo|
+|:heavy_check_mark:|:iphone:          |Desenvolver navegação em stack do aplicativo|
 |:heavy_check_mark:|:iphone:          |Estruturar página de dar aulas do aplicavo|
 |:heavy_check_mark:|:iphone:          |Estilizar página de dar aulas do aplicavo|
 |:x:               |:iphone:          |Estruturar páginas internas do aplicavo|

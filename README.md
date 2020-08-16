@@ -5,12 +5,12 @@
 </div>
 
 <p align="center"> 
-  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/rafaelfachinelli/proffy-omnistack?style=flat-square">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/proffy-omnistack?style=flat-square">
+  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/rafaelfachinelli/proffy-omnistack?style=for-the-badge">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/proffy-omnistack?style=for-the-badge">
   <a href="https://github.com/rafaelfachinelli">
-    <img alt="Feito pelo Rafael Fachinelli" src="https://img.shields.io/badge/feito%20por-Rafael Fachinelli-%237519C1?style=flat-square">
+    <img alt="Feito pelo Rafael Fachinelli" src="https://img.shields.io/badge/feito%20por-Rafael Fachinelli-%237519C1?style=for-the-badge">
   </a>
-  <img alt="Licença do Projeto" src="https://img.shields.io/github/license/rafaelfachinelli/Proffy?style=flat-square"/>
+  <img alt="Licença do Projeto" src="https://img.shields.io/github/license/rafaelfachinelli/Proffy?style=for-the-badge"/>
 <p>
 
 <p align="center">
@@ -156,8 +156,8 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 |:---:									|:---:						|:---:|
 |[HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)	|[Node.JS](https://nodejs.org/pt-br/)		|[Expo](https://expo.io)|
 |[CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)		|[Express](https://expressjs.com/pt-br/)	|[React Native](https://reactnative.dev)|
-|[Typescript](https://www.typescriptlang.org)				|[SQLite](https://www.sqlite.org/index.html)	||
-|[ReactJS](https://pt-br.reactjs.org)					|[KnexJS](http://knexjs.org)			||
+|[Typescript](https://www.typescriptlang.org)				|[SQLite](https://www.sqlite.org/index.html)	|[Expo Google Fonts](https://github.com/expo/google-fonts)|
+|[ReactJS](https://pt-br.reactjs.org)					|[KnexJS](http://knexjs.org)			|[React Navigation](https://reactnavigation.org)|
 |									|[Axios](https://github.com/axios/axios)	||
 
 </div>

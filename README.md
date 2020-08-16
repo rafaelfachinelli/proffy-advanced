@@ -24,6 +24,7 @@
  <a href="#page_facing_up-licença">Licença</a>
 </p>
 
+---
 ## :computer: Sobre
 
 A plataforma é para estudantes e professores. Os professores realizam o cadastro inserindo as seguintes informações: Nome, biografia, whatsapp, disciplina e dias da semana com horários disponíveis para aula. Os alunos buscam professores particulares através do filtro de dia da semana, hora e matéria.
@@ -53,8 +54,9 @@ O NLW é uma experiência online com muito conteúdo prático e desafios com dur
 |:heavy_check_mark:|:computer:        |Criar projeto do aplicativo mobile com Expo|
 |:heavy_check_mark:|:iphone:          |Estruturar página inicial do aplicativo|
 |:heavy_check_mark:|:iphone:          |Estilizar página inicial do aplicativo|
-|:x:               |:iphone:          |Navegação página inicial do aplicativo|
-|:x:               |:iphone:          |Estruturar página de cadastro do aplicavo|
+|:heavy_check_mark:|:iphone:          |Navegação página inicial do aplicativo|
+|:heavy_check_mark:|:iphone:          |Estruturar página de dar aulas do aplicavo|
+|:heavy_check_mark:|:iphone:          |Estilizar página de dar aulas do aplicavo|
 |:x:               |:iphone:          |Estruturar páginas internas do aplicavo|
 |:x:               |:iphone:          |Desenvolver navegação em abas do aplicativo|
 |:x:               |:iphone:          |Estruturar página de busca do aplicativo|

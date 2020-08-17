@@ -62,9 +62,9 @@ O NLW é uma experiência online com muito conteúdo prático e desafios com dur
 |:heavy_check_mark:|:iphone:          |Desenvolver navegação em abas do aplicativo|
 |:heavy_check_mark:|:iphone:          |Desenvolver componente header das páginas|
 |:heavy_check_mark:|:iphone:          |Estruturar página de busca do aplicativo|
-|:x:               |:iphone:          |Listagem de professores|
+|:heavy_check_mark:|:iphone:          |Conexão da API|
+|:heavy_check_mark:|:iphone:          |Listagem de professores|
 |:heavy_check_mark:|:iphone:          |Filtro de professores|
-|:x:               |:iphone:          |Conexão da API|
 |:x:               |:iphone:          |Lista de favoritos|
 |:x:               |:iphone:          |Listagem de favoritos|
 |:x:               |:iphone:          |Adição e remoção de favoritos|

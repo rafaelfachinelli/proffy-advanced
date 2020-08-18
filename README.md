@@ -120,7 +120,7 @@ $ yarn start
 
 ```
 
-> O servidor de desenvolvimento iniciará na porta:3000 - Acesse <http://localhost:3000>
+> ⚠️ O servidor de desenvolvimento iniciará na porta:3000 - Acesse <http://localhost:3000>
 
 ### :globe_with_meridians: **Servidor**
 
@@ -152,13 +152,11 @@ $ yarn knex:migrate
 $ yarn start
 ```
 
-> O servidor iniciará na porta:3333 - Acesse <http://localhost:3333>
+> ⚠️ O servidor iniciará na porta:3333 - Acesse <http://localhost:3333>
 
-> O Banco de Dados fica salvo em [`src/database/database.sqlite`](src/database/database.sqlite)
+> ⚠️ O Banco de Dados fica salvo em [`src/database/database.sqlite`](src/database/database.sqlite)
 
 ### :iphone: **Aplicativo**
-
-⚠️ No arquivo **api.ts** dentro da pasta [`mobile/src/services/`](mobile/src/services/) é necessário colocar o seu IP local na variável baseURL, mantendo a porta 3333 do servidor.
 
 Entre na pasta [`mobile/`](mobile/) e execute os seguintes comandos:
 
@@ -183,7 +181,9 @@ $ yarn start
 
 ```
 
-> O expo para desenvolvimento iniciará na porta:19002 - Acesse <http://localhost:19002>
+> ⚠️ O expo para desenvolvimento iniciará na porta:19002 - Acesse <http://localhost:19002>
+
+> ⚠️ No arquivo **api.ts** dentro da pasta [`mobile/src/services/`](mobile/src/services/) é necessário colocar o seu IP local na variável baseURL, mantendo a porta 3333 do servidor.
 
 ---
 ## :hammer: **Tecnologias**

@@ -65,10 +65,10 @@ O NLW é uma experiência online com muito conteúdo prático e desafios com dur
 |:heavy_check_mark:|:iphone:          |Conexão da API|
 |:heavy_check_mark:|:iphone:          |Listagem de professores|
 |:heavy_check_mark:|:iphone:          |Filtro de professores|
-|:x:               |:iphone:          |Lista de favoritos|
-|:x:               |:iphone:          |Listagem de favoritos|
-|:x:               |:iphone:          |Adição e remoção de favoritos|
-|:x:               |:iphone:          |Listagem de professores|
+|:heavy_check_mark:|:iphone:          |Lista de favoritos|
+|:heavy_check_mark:|:iphone:          |Listagem de favoritos|
+|:heavy_check_mark:|:iphone:          |Adição e remoção de favoritos|
+|:heavy_check_mark:|:iphone:          |Listagem de professores|
 
 </div>
 

@@ -78,9 +78,19 @@ O NLW é uma experiência online com muito conteúdo prático e desafios com dur
 ---
 ## :movie_camera: **Demonstração**
 
-<h4 align="center"> 
-	🚧  Demonstração em construção...  🚧
-</h4>
+<p align="center"><b> :iphone: MOBILE </b></p>
+
+<div align="center">
+
+Busca | Cadastro 
+---|---
+<img width="280" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src="./.github/demo-mobile-study.gif"> | <img width="280" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src="./.github/demo-mobile-give-classes.gif"> |
+
+</div>
+
+<p align="center"><b> :computer: DESKTOP </b></p>
+
+<p align="center"><kbd><img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Proffy" src="./.github/demo-desk-study.gif"></kbd> <kbd><img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Proffy" src="./.github/demo-desk-give-classes.gif"></kbd></p>
 
 ---
 ## :dvd: **Executar o Projeto**

@@ -1,8 +1,4 @@
-<div align="center">
-
-# Proffy
-
-</div>
+<img alt="Proffy" src="./.github/banner.png">
 
 <p align="center"> 
   <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/rafaelfachinelli/proffy-omnistack?style=for-the-badge">

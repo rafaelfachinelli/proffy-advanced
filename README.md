@@ -16,7 +16,7 @@
  <a href="#movie_camera-demonstração">Demonstração</a> •
  <a href="#dvd-executar-o-projeto">Executar</a> •
  <a href="#hammer-tecnologias">Tecnologias</a> •
- <a href="#boy-autor">Autor</a> •
+ <a href="#person_curly_hair-autor">Autor</a> •
  <a href="#page_facing_up-licença">Licença</a>
 </p>
 
@@ -203,7 +203,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 </div>
 
 ---
-## :boy: **Autor**
+## :person_curly_hair: **Autor**
 
 <a href="https://github.com/rafaelfachinelli">
  <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/19878139?s=460&u=278a6f44f49af3c8edb13a811f7654dfe6e89341&v=4" width="100px;" alt="Foto de Perfil Rafael Fachinelli"/>

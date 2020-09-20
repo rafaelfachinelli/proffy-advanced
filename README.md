@@ -210,7 +210,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 <a href="https://github.com/rafaelfachinelli">
  <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/19878139?s=460&u=278a6f44f49af3c8edb13a811f7654dfe6e89341&v=4" width="100px;" alt="Foto de Perfil Rafael Fachinelli"/>
  <br />
- <sub><b>Rafael Fachinelli</b></sub></a> <a href="https://github.com/rafaelfachinelli" title="Rafael Fachinelli">💼</a>
+ <sub><b>Rafael Fachinelli</b></sub></a>
 
 
 Feito com ❤️ por Rafael Fachinelli 👋🏽 Entre em contato!
@@ -225,5 +225,9 @@ Feito com ❤️ por Rafael Fachinelli 👋🏽 Entre em contato!
 ---
 ## :page_facing_up: **Licença**
 
+<div align="center">
+
 Copyright © 2020 [Rafael Fachinelli](https://github.com/rafaelfachinelli).<br />
 Este projeto é licenciado pelo [MIT](./LICENSE).
+
+</div>

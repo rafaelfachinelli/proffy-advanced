@@ -32,6 +32,8 @@ O NLW é uma experiência online com muito conteúdo prático e desafios com dur
 ## :memo: **Roteiro**
 
 <div align="center">
+<details>
+<summary>Clique para Visualizar</summary>
 
 |      Estado      |     Plataforma   |     Tarefa    |
 |      :---:       |       :---:      |      :---     |
@@ -66,6 +68,7 @@ O NLW é uma experiência online com muito conteúdo prático e desafios com dur
 |:heavy_check_mark:|:iphone:          |Adição e remoção de favoritos|
 |:heavy_check_mark:|:iphone:          |Listagem de professores|
 
+</details>
 </div>
 
 ---
